@@ -1,1 +1,10 @@
+
+# --- Data Files (Too large for GitHub) ---
+# This ignores your data folder so you don't get 'File Too Large' errors
 zippedData/
+*.csv
+*.csv.gz
+*.db
+*.sqlite
+*.zip
+*.json
