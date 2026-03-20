@@ -1,0 +1,8 @@
+# --- Data Files ---
+zippedData/
+*.csv
+*.csv.gz
+*.db
+*.sqlite
+*.zip
+*.json
