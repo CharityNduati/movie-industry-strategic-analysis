@@ -8,3 +8,4 @@ zippedData/
 *.sqlite
 *.zip
 *.json
+*.zippedData im.db.zip
